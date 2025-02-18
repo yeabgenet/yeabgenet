@@ -20,6 +20,7 @@ I'm always eager to learn new technologies and collaborate on exciting projects.
 ![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Microsoft_SharePoint_logo.svg/1200px-Microsoft_SharePoint_logo.svg.png)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -35,7 +36,7 @@ I'm always eager to learn new technologies and collaborate on exciting projects.
 
 
 
-![Hi!](https://github.com/user-attachments/assets/bcf20c8c-b0de-4d13-ba9d-6da3f2942149)
+
 
 
 
