@@ -41,6 +41,13 @@ I'm always eager to learn new technologies and collaborate on exciting projects.
     <img src="https://github.com/user-attachments/assets/bcf20c8c-b0de-4d13-ba9d-6da3f2942149" alt="Hi!" style="width: 100%; height: auto;">
 </div>
 
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+
+<div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">
+    <img src="https://github.com/user-attachments/assets/bcf20c8c-b0de-4d13-ba9d-6da3f2942149" alt="Hi!" style="width: 100%; height: auto;">
+</div>
+
+</body>
 
  
 <!--
