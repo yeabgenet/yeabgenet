@@ -13,7 +13,7 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 <br>
 <strong>Backend:</strong> PHP, Laravel, Node.js <br>
 <br>
-<strong>Cloud Solutions:</strong> Microsoft Power Automate, Power Apps, and Dataverse <br>
+<strong>Cloud Solutions:</strong> Microsoft Power Automate, Sharepoint , Power Apps, and Dataverse <br>
 <br>
 
 I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories projects , and let's connect! 🌟 <br> <br>
