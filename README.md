@@ -16,24 +16,26 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 <strong>Cloud Solutions:</strong> Microsoft Power Automate, Power Apps, and Dataverse <br>
 <br>
 
+![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  - [CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  - [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - [Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-  - [Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-  - [React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
-  - [PHP](https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=php&logoColor=white)
-  - [Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat-square&logo=laravel&logoColor=white)
-  - [Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8993BE?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
 
 
-  - [Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-  - [Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-  - [Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories, and let's connect! 🌟
+
+
 
 I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories projects , and let's connect! 🌟
 
