@@ -4,14 +4,17 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 
 <h3>🚀 What I Do</h3>
 
-Power BI & Data Analysis: I create dynamic dashboards and visualizations that empower businesses to make data-driven decisions. My projects include comprehensive reports that analyze sales trends, customer behavior, and operational efficiency.
-
-Data Science & AI: I delve into data science techniques to develop predictive models, including a project focused on cryptocurrency prediction. This project utilizes historical data and machine learning algorithms to forecast market trends and inform investment strategies.
+<strong> Power BI & Data Analysis: </strong> I create dynamic dashboards and visualizations that empower businesses to make data-driven decisions. My projects include comprehensive reports that analyze sales trends, customer behavior, and operational efficiency.
+<br>
+<strong> Data Science & AI: </strong> I delve into data science techniques to develop predictive models, including a project focused on cryptocurrency prediction. This project utilizes historical data and machine learning algorithms to forecast market trends and inform investment strategies.
 
 <h3>💻 Tech Stack</h3>
 <strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React <br>
+<br>
 <strong>Backend:</strong> PHP, Laravel, Node.js <br>
+<br>
 <strong>Cloud Solutions:</strong> Microsoft Power Automate, Power Apps, and Dataverse <br>
+<br>
 
 I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories projects , and let's connect! 🌟
 
