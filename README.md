@@ -9,9 +9,9 @@ Power BI & Data Analysis: I create dynamic dashboards and visualizations that em
 Data Science & AI: I delve into data science techniques to develop predictive models, including a project focused on cryptocurrency prediction. This project utilizes historical data and machine learning algorithms to forecast market trends and inform investment strategies.
 
 <h3>💻 Tech Stack</h3>
-<strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React 
-<strong>Backend:</strong> PHP, Laravel, Node.js 
-<strong>Cloud Solutions:</strong> Microsoft Power Automate, Power Apps, and Dataverse 
+<strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React <br>
+<strong>Backend:</strong> PHP, Laravel, Node.js <br>
+<strong>Cloud Solutions:</strong> Microsoft Power Automate, Power Apps, and Dataverse <br>
 
 I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories projects , and let's connect! 🌟
 
