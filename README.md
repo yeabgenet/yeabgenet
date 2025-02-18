@@ -16,6 +16,7 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 <strong>Cloud Solutions:</strong> Microsoft Power Automate, Power Apps, and Dataverse <br>
 <br>
 
+I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories projects , and let's connect! 🌟 <br> <br>
 ![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Microsoft%20Dataverse-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -37,7 +38,7 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 
 
 
-I'm always eager to learn new technologies and collaborate on exciting projects. Check out my repositories projects , and let's connect! 🌟
+
 
 ![Hi!](https://github.com/user-attachments/assets/bcf20c8c-b0de-4d13-ba9d-6da3f2942149)
 
