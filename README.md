@@ -11,7 +11,7 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 <h3>💻 Tech Stack</h3>
 <strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React <br>
 <br>
-<strong>Backend:</strong> PHP, Laravel, Node.js <br>
+<strong>Backend:</strong> PHP, Laravel, Node.js, Python <br>
 <br>
 <strong>Cloud Solutions:</strong> Microsoft Power Automate, Sharepoint , Power Apps, and Dataverse <br>
 <br>
