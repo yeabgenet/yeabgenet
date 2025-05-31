@@ -1,8 +1,8 @@
-<h2> 👋 Hello, I'm Yeabsira! </h2>
+<h2> Hello, I'm Yeabsira! </h2>
 
 I'm a passionate Power Platform and Full Stack Developer dedicated to transforming ideas into reality. With a strong foundation in both frontend and backend technologies, I thrive on creating seamless and efficient applications.
 
-<h3>🚀 What I Do</h3>
+<h3>What I Do</h3>
 
 <strong> Power BI & Data Analysis: </strong> I create dynamic dashboards and visualizations that empower businesses to make data-driven decisions. My projects include comprehensive reports that analyze sales trends, customer behavior, and operational efficiency.<br>
 <br>
