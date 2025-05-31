@@ -8,7 +8,7 @@ I'm a passionate Power Platform and Full Stack Developer dedicated to transformi
 <br>
 <strong> Data Science & AI: </strong> I delve into data science techniques to develop predictive models, including a project focused on cryptocurrency prediction. This project utilizes historical data and machine learning algorithms to forecast market trends and inform investment strategies.
 
-<h3>💻 Tech Stack</h3>
+<h3>Tech Stack</h3>
 <strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React <br>
 <br>
 <strong>Backend:</strong> PHP, Laravel, Node.js, Python <br>
